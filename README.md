@@ -24,5 +24,12 @@ Medical cost increases when age increases.
 
 ![image](https://github.com/user-attachments/assets/e08e2266-dedd-49f9-825b-1fa711049847)
 
+## Does medical cost depend on the BMI of a person?
 
-   
+BMI has no impact on medical costs.
+
+- The medical cost is $2,775.19 when BMI is 17.385, and the medical cost is $2,438.06 when BMI is 50.38.this means the medical cost is not increased when BMI is increased.
+  
+
+   ![image](https://github.com/user-attachments/assets/d582e3a1-fec4-48aa-98c1-f41105feb1af)
+
