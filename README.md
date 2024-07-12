@@ -33,3 +33,21 @@ BMI has no impact on medical costs.
 
    ![image](https://github.com/user-attachments/assets/d582e3a1-fec4-48aa-98c1-f41105feb1af)
 
+## Are medical costs different in different regions of the United States?
+
+![image](https://github.com/user-attachments/assets/d93420d4-9aea-40ef-a12f-3dd3d39e5193)
+
+-The southeast region has medical cost distribution more than other regions.
+
+-The Northeast region has a median medical cost is $10,058.
+
+- The Northwest has medical medical costs is $8,966.
+
+-The southeast region has a median medical cost is $9,294.
+
+-The Southwest region has a median medical cost is $8,799.
+
+
+
+  
+
