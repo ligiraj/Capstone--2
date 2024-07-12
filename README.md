@@ -91,10 +91,26 @@ BMI has no impact on medical costs.
 
 -The median medical cost for a nonsmoker with five children starts at $4,688, but for a smoker with no children, the median cost starts at $19,023.
 
+## Correlation and Conclusion
+
+![image](https://github.com/user-attachments/assets/0d12362c-41ee-4d75-bb53-d50efa7ee98d)
 
 
+# Correlation
 
+-The correlation between smoking and medical costs is 0.787251.
 
+The correlation between medical cost and age is 0.299008.
+
+This means that smoking and age may be predictors of medical costs.
+
+# Conclusion
+
+-Medical cost and Predicted medical cost have a positive correlation.
+
+-When the median medical cost is $13,224, the predicted median cost is $13,276.
+
+-This means age and smoker are predictors of medical costs.
 
 
 
