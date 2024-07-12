@@ -19,6 +19,10 @@ Tableau
 Medical cost increases when age increases.
 
 -The median medical cost of 18 years is $2,198.19. It increases to $6,210.08 when the age is 33 years.
+
 -The trend line below shows p-value <0.0001. It means there is a positive relation between age and medical cost.
+
+![image](https://github.com/user-attachments/assets/e08e2266-dedd-49f9-825b-1fa711049847)
+
 
    
