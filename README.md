@@ -41,11 +41,24 @@ BMI has no impact on medical costs.
 
 -The Northeast region has a median medical cost is $10,058.
 
-- The Northwest has medical medical costs is $8,966.
+-The Northwest has medical medical costs is $8,966.
 
 -The southeast region has a median medical cost is $9,294.
 
 -The Southwest region has a median medical cost is $8,799.
+
+## Is there any difference in medical cost between gender and habit?
+
+![image](https://github.com/user-attachments/assets/13e7d2ae-6201-4ee1-b4b1-1b35d9db009c)
+
+-It is clear that female and male smokers have more medical costs than non-smokers.
+
+-The median medical cost of a female non-smoker is $7,639, it increases to $28,950 when the female is a smoker.
+
+-The median medical cost of a male non-smoker is $6,986 and it increases to $36,085 when the male is a smoker.
+
+
+
 
 
 
